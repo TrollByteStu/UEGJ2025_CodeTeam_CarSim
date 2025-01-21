@@ -1,0 +1,11 @@
+Biomes:
+Rocky - Canyons & Mountain Roads
+Sandy - Dunes and "sticky sand"
+Swamp - Sticky mud, Mud on windshield
+	Geigercounter
+Oasis - Mines and pit traps & turrets
+
+Alphalt/Town - Pedestrians & lawful cars
+
+Goal:
+Next Pitboard in less than 1 minute or you explode
